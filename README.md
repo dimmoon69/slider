@@ -1,2 +1,2 @@
-##SLIDER
+## SLIDER
 <img align="center" src="https://images.unsplash.com/photo-1632235317286-c07b79dc542a?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=3782&q=80" alt="Сообщение">
